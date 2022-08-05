@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;    
+}
+
+.fundo {
+ background-color: rgb(199, 197, 197);
+ width: 30%;
+ border-radius: 5%;
+ margin: 1%;
+ float: left;
+ padding: 10px;
+}
+
+.imag {
+width: 150px;
+float: right;
+
+}
+
+@media (max-widht: 700px) {
+    .fundo { width: auto; }
+}
+
+.cab{
+    font-size: 18px;
+}
+
+.tex{
+    font-size: 14px;
+    text-align: justify;
+    margin: 1%;    
+}
+
+.menu{
+   
+}
+
+.an{
+    margin: 0 auto;
+    width: 25px;
+}
